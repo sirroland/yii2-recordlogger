@@ -1,0 +1,23 @@
+{
+  "name": "sirroland/yii2-recordlogger",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/sirroland/yii2-recordlogger",
+  "type": "yii2-extension",
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Sirroland",
+      "email": "sirroland2@yandex.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "dvlp\\recordlogger\\": "src/"
+    }
+  }
+}
